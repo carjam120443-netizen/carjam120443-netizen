@@ -19,6 +19,7 @@ I enjoy experimenting with Linux distributions, Android, custom operating system
 - 📺 **YouTube:** [@spongebobhijacks](https://www.youtube.com/@spongebobhijacks)
 - 🎵 **Suno:** [@modestsongs401](https://suno.com/@modestsongs401)
 - 📚 **Internet Archive:** [@carson_poole643](https://archive.org/details/@carson_poole643)
+- 🎵 **TikTok:** [@carsonp4848](https://www.tiktok.com/@carsonp4848)
 
 ## 🛠️ What I Like Working With
 
