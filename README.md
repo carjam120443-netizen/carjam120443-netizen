@@ -1,37 +1,43 @@
-# 👋 Hi, I'm Carson!
+# 👋 Hey, I'm Carson!
 
-> **This is my new account. My original was `carjam1200-jpg`, but that got deleted.**
+💻 **Tech enthusiast • Linux tinkerer • Android experimenter • Developer**
 
-I’m into technology, Linux, Android, coding, GitHub, virtual machines, and experimenting with different operating systems. 🖥️🐧🤖
+I love messing with Linux, Android, virtual machines, Git/GitHub, coding, and operating-system projects. I'm always experimenting with something new. 🚀
 
-## 🐧 Linux & 🤖 Android
+## 🐧 Linux & 🖥️ OS Projects
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="80" height="80" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="80" height="80" />
-</p>
+I enjoy:
+- 🐧 Building and customizing Linux distributions
+- 🔧 Working on **RebuiltTux OS**
+- 🖥️ Experimenting with virtual machines and different operating systems
+- 📦 Building ISOs and working with Debian/Ubuntu-based systems
+- ⚙️ Customizing software and system environments
 
-I enjoy experimenting with Linux distributions, Android, custom operating systems, VMs, and different ways of building and modifying software.
+## 🤖 Android & Tech
 
-## 🔗 My Socials & Projects
+- 🤖 Android customization and experimentation
+- 📱 Samsung/Android tinkering
+- 🧰 Android tools and APK projects
+- 💻 Windows and PC technology
+- 🧑‍💻 Coding, Git, and GitHub
+
+## 🔗 Find Me Online
 
 - 📺 **YouTube:** [@spongebobhijacks](https://www.youtube.com/@spongebobhijacks)
 - 🎵 **Suno:** [@modestsongs401](https://suno.com/@modestsongs401)
-- 📚 **Internet Archive:** [@carson_poole643](https://archive.org/details/@carson_poole643)
 - 🎵 **TikTok:** [@carsonp4848](https://www.tiktok.com/@carsonp4848)
+- 📚 **Internet Archive:** [@carson_poole643](https://archive.org/details/@carson_poole643)
 
-## 🛠️ What I Like Working With
+## 🚀 Projects
 
-- 🐧 Linux & Debian/Ubuntu-based systems
-- 🤖 Android & Android customization
-- 🖥️ Virtual machines and OS experimentation
-- 💻 Windows and PC technology
-- 🧑‍💻 Coding and Git/GitHub
-- 🔧 Custom OS projects
-- 📦 APKs, Android tools, and system experimentation
-- 🎵 AI-generated music
+- 🐧 **RebuiltTux ISO** — my custom Linux distro project
+- 🧪 Various Linux, Android, VM, and coding experiments
+- 🛠️ Random tech projects and things I build just because I can 😎
+
+## ⚡ Currently
+
+> Building stuff, breaking stuff, fixing it, and learning along the way.
 
 ---
 
-⭐ **Welcome to my new GitHub account!**
+⭐ Thanks for checking out my profile!
