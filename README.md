@@ -33,7 +33,25 @@ I love messing with Linux, Android, virtual machines, Git/GitHub, coding, and op
 > │ 🔧 **RebuiltTux OS** — my custom Linux project │  
 > │ 📦 **ISO Building** — Debian/Ubuntu-based systems │  
 > │ 🖥️ **Virtual Machines** — OS experimentation │  
+> │ 💾 **Bootloader Work** — experimenting with x86 boot code │  
+> │ 🎨 **Aero Installer Theme** — Windows-era inspired installer UI │  
 > ╰────────────────────────────────────────╯
+
+### 🗂️ From the old account
+
+Some of the projects I worked on under **`carjam1200-jpg`** included:
+
+- 🐧 `rebuilttux-os` — RebuiltTux OS development
+- 🐧 `rebuilttux2` — another RebuiltTux development project
+- 🤖 `Android-vms-app` — Android VM experimentation
+- 🤖 `Android-vms-app1` — Android VM experimentation
+- 🧪 `Android-vms-test` — Android/VM testing
+- 🧪 `Android-vms-testy` — experimental VM work
+- 💿 `Isovm` — ISO and VM experimentation
+- 🧪 `Testrepo` — development/testing
+- 🧪 `test-repo1` — development/testing
+
+> 🪦 The old account is gone, but the projects and experiments are still part of the story behind this account.
 
 ## 🤖 Android & Tech
 
@@ -54,12 +72,16 @@ I love messing with Linux, Android, virtual machines, Git/GitHub, coding, and op
 | 🎵 **TikTok** | [@carsonp4848](https://www.tiktok.com/@carsonp4848) |
 | 📚 **Internet Archive** | [@carson_poole643](https://archive.org/details/@carson_poole643) |
 
-## 🚀 Projects
+## 🚀 Current Projects
 
 <table>
 <tr>
 <td>🐧 <b>RebuiltTux ISO</b></td>
 <td>My custom Linux distro project</td>
+</tr>
+<tr>
+<td>🤖 <b>Android VM Projects</b></td>
+<td>Continuing the Android/VM experimentation from the old account</td>
 </tr>
 <tr>
 <td>🧪 <b>Tech Experiments</b></td>
