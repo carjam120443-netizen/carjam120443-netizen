@@ -1,6 +1,12 @@
 # 👋 Hey, I'm Carson!
 
-💻 **Tech enthusiast • Linux tinkerer • Android experimenter • Developer**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="90" height="90" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="90" height="90" />
+</p>
+
+<p align="center"><b>💻 Tech enthusiast • Linux tinkerer • Android experimenter • Developer</b></p>
 
 I love messing with Linux, Android, virtual machines, Git/GitHub, coding, and operating-system projects. I'm always experimenting with something new. 🚀
 
