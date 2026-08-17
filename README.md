@@ -8,7 +8,7 @@
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="78" height="78" />
 
-# ✨ Linux • Android • VMs • Coding • OS Development ✨
+# ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
 `╭────────────────────────────────────────────────────────╮`
 
@@ -67,6 +67,29 @@ _)      \.___.,|     .'
                              ______( (_  / \______
                            ,'  ,-----'   |        \
                            `--{__________)        \/
+```
+
+### 🪟 Windows / PowerShell System Info
+
+```text
+        -o          o-             carja@carsonswin10
+          +hydNNNNdyh+              ------------------
+        +mMMMMMMMMMMMMm+            OS: Windows 11 Home (25H2) x86_64
+      `dMMm:NMMMMMMN:mMMd`          Host: B550 UD AC
+      hMMMMMMMMMMMMMMMMMMh          Kernel: WIN32_NT
+  ..  yyyyyyyyyyyyyyyyyyyy  ..      Packages: Chocolatey + Scoop
+.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.    Shell: Windows PowerShell
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    Display: 1920x1080 / 144 Hz
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    Display: 1920x1080 / 100 Hz
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    WM: Desktop Window Manager
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    WM Theme: Dark
+-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-    Theme: Fluent
+ +yy+ MMMMMMMMMMMMMMMMMMMM +yy+     Icons: Windows System Icons
+      mMMMMMMMMMMMMMMMMMMm          Font: Segoe UI
+      `/++MMMMh++hMMMM++/`          Cursor: Custom
+          MMMMo  oMMMM              Terminal: Windows Console
+          MMMMo  oMMMM              Terminal Font: Consolas
+          oNMm-  -mMNs
 ```
 
 **🐧 Linux • 🔧 Systems • 🤖 Android • 🪟 Windows • 💻 Coding**
@@ -227,6 +250,6 @@ Some of the projects I worked on under **`carjam1200-jpg`** included:
 
 ### 💠🪟 Thanks for visiting! 🤖💚
 
-**Linux • Android • VMs • Coding • OS Development**
+**Linux • Android • Windows • VMs • Coding • OS Development**
 
 </div>
