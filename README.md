@@ -69,27 +69,27 @@ _)      \.___.,|     .'
                            `--{__________)        \/
 ```
 
-### 🪟 Windows / PowerShell System Info
+### 🪟 Windows / PowerShell Art
 
 ```text
-        -o          o-             carja@carsonswin10
-          +hydNNNNdyh+              ------------------
-        +mMMMMMMMMMMMMm+            OS: Windows 11 Home (25H2) x86_64
-      `dMMm:NMMMMMMN:mMMd`          Host: B550 UD AC
-      hMMMMMMMMMMMMMMMMMMh          Kernel: WIN32_NT
-  ..  yyyyyyyyyyyyyyyyyyyy  ..      Packages: Chocolatey + Scoop
-.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.    Shell: Windows PowerShell
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    Display: 1920x1080 / 144 Hz
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    Display: 1920x1080 / 100 Hz
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    WM: Desktop Window Manager
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    WM Theme: Dark
--MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-    Theme: Fluent
- +yy+ MMMMMMMMMMMMMMMMMMMM +yy+     Icons: Windows System Icons
-      mMMMMMMMMMMMMMMMMMMm          Font: Segoe UI
-      `/++MMMMh++hMMMM++/`          Cursor: Custom
-          MMMMo  oMMMM              Terminal: Windows Console
-          MMMMo  oMMMM              Terminal Font: Consolas
-          oNMm-  -mMNs
+        -o          o-             
+          +hydNNNNdyh+             
+        +mMMMMMMMMMMMMm+            
+      `dMMm:NMMMMMMN:mMMd`          
+      hMMMMMMMMMMMMMMMMMMh          
+  ..  yyyyyyyyyyyyyyyyyyyy  ..      
+.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.    
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    
+-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-    
+ +yy+ MMMMMMMMMMMMMMMMMMMM +yy+     
+      mMMMMMMMMMMMMMMMMMMm          
+      `/++MMMMh++hMMMM++/`          
+          MMMMo  oMMMM              
+          MMMMo  oMMMM              
+          oNMm-  -mMNs              
 ```
 
 **🐧 Linux • 🔧 Systems • 🤖 Android • 🪟 Windows • 💻 Coding**
