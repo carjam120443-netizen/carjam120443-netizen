@@ -72,24 +72,45 @@ _)      \.___.,|     .'
 ### 🪟 Windows / PowerShell Art
 
 ```text
-        -o          o-             
-          +hydNNNNdyh+             
-        +mMMMMMMMMMMMMm+            
-      `dMMm:NMMMMMMN:mMMd`          
-      hMMMMMMMMMMMMMMMMMMh          
-  ..  yyyyyyyyyyyyyyyyyyyy  ..      
-.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.    
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:    
--MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-    
- +yy+ MMMMMMMMMMMMMMMMMMMM +yy+     
-      mMMMMMMMMMMMMMMMMMMm          
-      `/++MMMMh++hMMMM++/`          
-          MMMMo  oMMMM              
-          MMMMo  oMMMM              
-          oNMm-  -mMNs              
+        -o          o-
+          +hydNNNNdyh+
+        +mMMMMMMMMMMMMm+
+      `dMMm:NMMMMMMN:mMMd`
+      hMMMMMMMMMMMMMMMMMMh
+  ..  yyyyyyyyyyyyyyyyyyyy  ..
+.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
+-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
+ +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
+      mMMMMMMMMMMMMMMMMMMm
+      `/++MMMMh++hMMMM++/`
+          MMMMo  oMMMM
+          MMMMo  oMMMM
+          oNMm-  -mMNs
+```
+
+### 🖥️ System Logo / ASCII
+
+```text
+ ,.=:!!t3Z3z.,
+       :tt:::tt333EE3
+       Et:::ztt33EEEL
+      ;tt:::tt333EE7
+     :Et:::zt333EEQ.
+     it::::tt333EEF
+    ;3=*^```"*4EEV
+    ,.=::::!t=., `
+   ;::::::::zt33)
+  :t::::::::tt33.:Z3z..  `` ,..g.
+  i::::::::zt33F
+ ;:::::::::t33V
+ E::::::::zt33L
+{3=*^```"*4E3)
+             ` :EEEEtttt::::z7
+                 "VEzjt:;;z>*`
 ```
 
 **🐧 Linux • 🔧 Systems • 🤖 Android • 🪟 Windows • 💻 Coding**
