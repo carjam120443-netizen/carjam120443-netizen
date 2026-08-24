@@ -257,6 +257,14 @@ I'm also interested in keeping Android open and user-friendly. Check out **[Keep
 </tr>
 </table>
 
+## 🍴🐙 Forking & Remixing
+
+I like **forking repositories** and experimenting with them, especially when I want to learn how something works, customize it, or build my own version. 🔧💻
+
+**Credit where credit is due:** I keep the original authors, project credits, and applicable licenses intact, and I make it clear when something is based on a fork. 🙌📜
+
+> 🍴 **Fork it → 🔧 Modify it → 🧪 Experiment with it → 📝 Give credit**
+
 ## 🐧🖥️ Linux & OS Projects
 
 > ╭──────────────────────────────────────────────╮  
@@ -307,6 +315,7 @@ Some of the projects I worked on under **`carjam1200-jpg`** included:
 - 🤖 Android-x86 and Android customization
 - 🔧 ADB, Shizuku and Android tooling
 - 🔓 Open Android, interoperability and user choice
+- 🍴 Forking, remixing and customizing open-source projects
 - 🪟 Windows customization and Aero-era aesthetics
 - 🐙 Git, GitHub Actions and automated builds
 - 💻 CLI tools, shells and custom utilities
