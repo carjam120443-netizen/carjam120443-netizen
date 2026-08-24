@@ -9,7 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="78" height="78" />
 &nbsp;&nbsp;
 <a href="https://opensource.org/" title="Open Source Initiative">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@16.28.0/icons/opensourceinitiative.svg" alt="Open Source Initiative" width="78" height="78" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/opensourceinitiative.svg" alt="Open Source Initiative" width="78" height="78" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.freebsd.org/" title="FreeBSD">
@@ -17,7 +17,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://www.openbsd.org/" title="OpenBSD">
-<img src="./assets/openbsd.svg" alt="OpenBSD" width="78" height="78" />
+<img src="https://cdn.simpleicons.org/openbsd/F2CA30" alt="OpenBSD" width="78" height="78" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.unix.org/" title="Unix">
