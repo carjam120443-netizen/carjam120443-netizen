@@ -173,6 +173,31 @@ I love messing with Linux, Android, virtual machines, Git/GitHub, coding, and op
 </tr>
 </table>
 
+## 🖥️🧪 Virtual Machine Corner
+
+**VirtualBox is one of my favorite tools.** I use virtual machines constantly to try out Linux distributions, BSDs, Android-x86, experimental operating systems, installers, ISO builds, and other weird stuff without having to install everything directly on my PC. 💻🐧
+
+I especially like being able to spin up a VM, break something spectacularly, take a snapshot, and go right back to experimenting. 😭🔧
+
+> **VirtualBox:** 🟢 *"Let's try another OS."*  
+> **Me:** 🟢 *"Absolutely."*  
+> **The VM:** 🔥 *"Please stop."*
+
+## 🪟💢 Windows: Necessary Evil Edition
+
+Windows isn't really my favorite OS. A big reason is the amount of **preinstalled stuff, background services, storage usage, and performance overhead** that can come with it. I generally prefer operating systems where I have more control over what is installed and running. 🐧💾
+
+That said, Windows is currently my **main OS because gaming compatibility matters**. Some games and their anti-cheat systems require Windows or work much more reliably on Windows, so unfortunately I can't completely ditch it for Linux yet. 🎮🪟
+
+So the current setup is basically:
+
+- 🪟 **Windows:** main OS because gaming + anti-cheat compatibility
+- 🐧 **Linux:** the OS I actually enjoy tinkering with
+- 💻 **VirtualBox:** where I can throw basically every other OS at the wall and see what happens
+- 🧪 **QEMU:** another tool for deeper OS/VM experiments
+
+**Windows may be the host, but the VMs are where the chaos happens.** 💀
+
 ## 🪟✨ Aero Glass Zone
 
 > ╭──────────────────────────────────────────────────────╮  
