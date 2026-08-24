@@ -227,6 +227,10 @@ So the current setup is basically:
 > │ 🖥️ **Android-x86** — VM and ISO experimentation         │  
 > ╰──────────────────────────────────────────────────────╯
 
+### 🌐 Keep Android Open
+
+I'm also interested in keeping Android open and user-friendly. Check out **[Keep Android Open](https://keepandroidopen.org/)** for more on the movement around openness, interoperability, and user choice in the Android ecosystem. 🤖💚🔓
+
 <table>
 <tr>
 <td>
@@ -236,7 +240,8 @@ So the current setup is basically:
 `●` Customization  
 `●` ADB  
 `●` Shizuku  
-`●` Android-x86
+`●` Android-x86  
+`●` Open Android & user choice
 
 </td>
 <td>
@@ -301,6 +306,7 @@ Some of the projects I worked on under **`carjam1200-jpg`** included:
 - 📦 Package managers and alternative Linux systems
 - 🤖 Android-x86 and Android customization
 - 🔧 ADB, Shizuku and Android tooling
+- 🔓 Open Android, interoperability and user choice
 - 🪟 Windows customization and Aero-era aesthetics
 - 🐙 Git, GitHub Actions and automated builds
 - 💻 CLI tools, shells and custom utilities
