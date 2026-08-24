@@ -13,15 +13,15 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://www.freebsd.org/" title="FreeBSD">
-<img src="https://www.freebsd.org/logo.svg" alt="FreeBSD" width="78" height="78" />
+<img src="./assets/freebsd.svg" alt="FreeBSD" width="78" height="78" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.openbsd.org/" title="OpenBSD">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@16.28.0/icons/openbsd.svg" alt="OpenBSD" width="78" height="78" />
+<img src="./assets/openbsd.svg" alt="OpenBSD" width="78" height="78" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.unix.org/" title="Unix">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@16.28.0/icons/unix.svg" alt="Unix" width="78" height="78" />
+<img src="./assets/unix.svg" alt="Unix" width="78" height="78" />
 </a>
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
