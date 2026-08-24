@@ -7,6 +7,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="78" height="78" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="78" height="78" />
+&nbsp;&nbsp;
+<a href="https://opensource.org/" title="Open Source Initiative">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@16.28.0/icons/opensourceinitiative.svg" alt="Open Source Initiative" width="78" height="78" />
+</a>
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
