@@ -48,11 +48,11 @@
 &nbsp;&nbsp;
 <img src="https://thesvg.org/icons/virtualbox/default.svg" alt="VirtualBox" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/paomedia/small-n-flat/master/svg/terminal.svg" alt="Terminal" width="78" height="78" valign="middle" />
+<img src="https://thesvg.org/icons/terminal/default.svg" alt="Terminal" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/gitlab.svg" alt="GitLab" width="78" height="78" valign="middle" />
+<img src="https://thesvg.org/icons/gitlab/default.svg" alt="GitLab" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Shopify/polaris-react/main/polaris-icons/icons/CodeIcon.svg" alt="Code" width="78" height="78" valign="middle" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="78" height="78" valign="middle" />
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
