@@ -56,6 +56,10 @@
 
 `╰────────────────────────────────────────────────────────╯`
 
+> 🧑‍💻 **Current mode:** building weird stuff, fixing broken stuff, and seeing what happens. 🔧💀
+
+**🛠️ Toolbox:** Linux · Android · Git/GitHub · VirtualBox · QEMU · PowerShell · ADB · Shizuku · ISO builders
+
 </div>
 
 ---
@@ -199,6 +203,8 @@ I love messing with Linux, Android, virtual machines, Git/GitHub, coding, and op
 
 ## 🚀 Featured Projects
 
+A little showcase of the projects currently taking up my Git history. 😭🔧
+
 These are some of the projects I'm currently building or experimenting with:
 
 | 💠 Project | 📝 What it is |
@@ -214,7 +220,7 @@ These are some of the projects I'm currently building or experimenting with:
 | 🐧 **carsondeb** | Debian live-build / XFCE ISO project |
 | 🐙 **custom-pacman-repo** | MSYS2 package/repository experimentation |
 
-> 🔧 This list changes as I build, break, recover, and start new projects.
+> 🔧 **Project status:** constantly changing as I build, break, recover, rename, and start new things.
 
 ## 🖥️🧪 Virtual Machine Corner
 
@@ -242,6 +248,8 @@ So the current setup is basically:
 **Windows may be the host, but the VMs are where the chaos happens.** 💀
 
 ## 🪟✨ Aero Glass Zone
+
+**Aero is basically the visual theme of this whole place.** 💠🪟
 
 > ╭──────────────────────────────────────────────────────╮  
 > │ 💎 **Glass UI** — translucent, glossy Windows-era vibes │  
@@ -375,6 +383,10 @@ Some of the projects I worked on under **`carjam1200-jpg`** included:
 | 🎵 **Suno** | [@modestsongs401](https://suno.com/@modestsongs401) |
 | 🎵 **TikTok** | [@carsonp4848](https://www.tiktok.com/@carsonp4848) |
 | 📚 **Internet Archive** | [@carson_poole643](https://archive.org/details/@carson_poole643) |
+
+## 🤖🧑‍💻 Code Helper
+
+> Built with help from **ChatGPT** — debugging, coding, ideas, documentation, and occasional explanations of why something exploded. 🤖🔧
 
 ## ⚡💎 Currently
 
