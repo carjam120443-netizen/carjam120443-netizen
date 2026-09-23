@@ -48,7 +48,7 @@
 &nbsp;&nbsp;
 <img src="https://thesvg.org/icons/virtualbox/default.svg" alt="VirtualBox" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/terminal/default.svg" alt="Terminal" width="78" height="78" valign="middle" />
+<img src="./assets/terminal.svg" alt="Terminal" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://thesvg.org/icons/gitlab/default.svg" alt="GitLab" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
