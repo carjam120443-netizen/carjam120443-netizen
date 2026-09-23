@@ -48,7 +48,7 @@
 &nbsp;&nbsp;
 <img src="https://thesvg.org/icons/virtualbox/default.svg" alt="VirtualBox" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/terminal/default.svg" alt="Terminal" width="78" height="78" valign="middle" />
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/terminal/default.svg" alt="Terminal" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://thesvg.org/icons/gitlab/default.svg" alt="GitLab" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
@@ -82,16 +82,16 @@
        @p~qp~~qMb
        M|@||@) M|
        @,----.JM|
-      JS^\__/  qKL
+      JS^\\__/  qKL
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
    HZM            MMMM
    FqM            MMMM
- __| ".        |\dS"qML
- |    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMP|   .'
+ __| ".        |\\dS"qML
+ |    `.       | `' \\Zq
+_)      \\.___.,|     .'
+\\____   )MMMMMP|   .'
      `-'       `--' hjm
 ```
 
@@ -100,23 +100,23 @@ _)      \.___.,|     .'
 ```text
                                  ,        ,
                                 /(        )`
-                                \ \___   / |
+                                \\ \\___   / |
                                 /- _  `-/  '
-                               (/\/ \ \   /\
-                               / /   | `    \
+                               (/\\/ \\ \\   /\\
+                               / /   | `    \\
                                O O   ) /    |
                                `-^--'`<     '
                    TM         (_.)  _  )   /
-|  | |\  | ~|~ \ /             `.___/`    /
-|  | | \ |  |   X                `-----' /
-`__| |  \| _|_ / \  <----.     __ / __   \
-                    <----|====O)))==) \) /====
-                    <----'    `--' `.__,' \
+|  | |\\  | ~|~ \ /             `.___/`    /
+|  | | \\ |  |   X                `-----' /
+`__| |  \\| _|_ / \\  <----.     __ / __   \\
+                    <----|====O)))==) \\) /====
+                    <----'    `--' `.__,' \\
                                  |        |
-                                  \       /
-                             ______( (_  / \______
-                           ,'  ,-----'   |        \
-                           `--{__________)        \/
+                                  \\       /
+                             ______( (_  / \\______
+                           ,'  ,-----'   |        \\
+                           `--{__________)        \\/
 ```
 
 ### 🪟 Windows / PowerShell Art
@@ -168,21 +168,21 @@ _)      \.___.,|     .'
 ```text
            ,        ,
             /(        )`
-            \ \___   / |
+            \\ \\___   / |
             /- _  `-/  '
-           (/\/ \ \   /\
-           / /   | `    \
+           (/\\/ \\ \\   /\\
+           / /   | `    \\
            O O   ) /    |
            `-^--'`<     '
           (_.)  _  )   /
            `.___/`    /
              `-----' /
-<----.     __ / __   \
-<----|====O)))==) \) /====|
-<----'    `--' `.__,' \
+<----.     __ / __   \\
+<----|====O)))==) \\) /====|
+<----'    `--' `.__,' \\
              |        |
-              \       /       /\
-         ______( (_  / \______/ 
+              \\       /       /\\
+         ______( (_  / \\______/ 
        ,'  ,-----'   |
        `--{__________)
 ```
