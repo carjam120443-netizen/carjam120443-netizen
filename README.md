@@ -47,6 +47,8 @@
 <img src="https://thesvg.org/icons/android/default.svg" alt="Android" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://thesvg.org/icons/virtualbox/default.svg" alt="VirtualBox" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/paomedia/small-n-flat/master/svg/terminal.svg" alt="Terminal" width="78" height="78" valign="middle" />
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
