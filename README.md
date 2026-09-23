@@ -25,6 +25,8 @@
 </a>
 &nbsp;&nbsp;
 <img src="https://thesvg.org/icons/msdos/default.svg" alt="MS-DOS" width="78" height="78" />
+&nbsp;&nbsp;
+<img src="https://thesvg.org/icons/internet-archive/default.svg" alt="Internet Archive" width="78" height="78" />
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
