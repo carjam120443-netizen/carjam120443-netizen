@@ -173,6 +173,25 @@ I love messing with Linux, Android, virtual machines, Git/GitHub, coding, and op
 </tr>
 </table>
 
+## 🚀 Featured Projects
+
+These are some of the projects I'm currently building or experimenting with:
+
+| 💠 Project | 📝 What it is |
+|---|---|
+| 🐧 **CarsonLinux** | Independent Linux/OS project and system-building experiments |
+| 🐧 **CarsonArch** | Arch-based custom distribution experiments |
+| 🐧 **CarsonBSD** | BSD-inspired operating-system project |
+| 🐧 **CarsonKali** | Kali-based live ISO/build experiments |
+| 🌐 **CarsonBrowser** | Custom browser project |
+| 🖥️ **CarsonScreenSaver** | Windows screensaver collection with multiple styles |
+| 🧰 **CarsonDock** | Desktop dock project |
+| 🐟 **FishLinux / FishOS** | Experimental Linux/OS projects |
+| 🐧 **carsondeb** | Debian live-build / XFCE ISO project |
+| 🐙 **custom-pacman-repo** | MSYS2 package/repository experimentation |
+
+> 🔧 This list changes as I build, break, recover, and start new projects.
+
 ## 🖥️🧪 Virtual Machine Corner
 
 **VirtualBox is one of my favorite tools.** I use virtual machines constantly to try out Linux distributions, BSDs, Android-x86, experimental operating systems, installers, ISO builds, and other weird stuff without having to install everything directly on my PC. 💻🐧
@@ -291,7 +310,7 @@ Some of the projects I worked on under **`carjam1200-jpg`** included:
 
 > 🪦 The old account is gone, but those projects and experiments are still part of the history behind this account.
 
-## 🚀 Current & Recovered Projects
+## 🧰 Other & Recovered Projects
 
 | 💠 Project | 📝 What it is |
 |---|---|
@@ -306,6 +325,8 @@ Some of the projects I worked on under **`carjam1200-jpg`** included:
 | 🎮 **Roblox Custom CLI** | Custom command-line launcher/tooling experiments |
 | 📱 **Android + Shizuku Tools** | Android customization and tooling |
 | 🌐 **WebSim ChatGPT Server** | Experimental web/AI server project |
+| 📦 **cpkg** | Custom package-manager experimentation |
+| 🔐 **PrivLink** | Privacy/networking experimentation |
 
 ## 🧪🔧 Things I Like Experimenting With
 
