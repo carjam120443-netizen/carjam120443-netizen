@@ -5,33 +5,33 @@
 
 # 🪟💠 Welcome to Carson's Profile 💠🤖
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="78" height="78" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="78" height="78" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="78" height="78" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <a href="https://opensource.org/" title="Open Source Initiative">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/opensourceinitiative.svg" alt="Open Source Initiative" width="78" height="78" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/opensourceinitiative.svg" alt="Open Source Initiative" width="78" height="78" valign="middle" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.freebsd.org/" title="FreeBSD">
-<img src="./assets/freebsd.svg" alt="FreeBSD" width="78" height="78" />
+<img src="./assets/freebsd.svg" alt="FreeBSD" width="78" height="78" valign="middle" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.openbsd.org/" title="OpenBSD">
-<img src="https://cdn.simpleicons.org/openbsd/F2CA30" alt="OpenBSD" width="78" height="78" />
+<img src="https://cdn.simpleicons.org/openbsd/F2CA30" alt="OpenBSD" width="78" height="78" valign="middle" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.unix.org/" title="Unix">
-<img src="./assets/unix.svg" alt="Unix" width="78" height="78" />
+<img src="./assets/unix.svg" alt="Unix" width="78" height="78" valign="middle" />
 </a>
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/msdos/default.svg" alt="MS-DOS" width="78" height="78" />
+<img src="https://thesvg.org/icons/msdos/default.svg" alt="MS-DOS" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/internet-archive/default.svg" alt="Internet Archive" width="78" height="78" />
+<img src="https://thesvg.org/icons/internet-archive/default.svg" alt="Internet Archive" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/gnome-terminal/default.svg" alt="GNOME Terminal" width="78" height="78" />
+<img src="https://thesvg.org/icons/gnome-terminal/default.svg" alt="GNOME Terminal" width="78" height="78" valign="middle" />
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
