@@ -1,5 +1,8 @@
 <div align="center">
 
+<img align="left" src="./assets/aero-left.svg" alt="Aero glass border" width="18" height="900" />
+<img align="right" src="./assets/aero-right.svg" alt="Aero glass border" width="18" height="900" />
+
 # 🪟💠 Welcome to Carson's Profile 💠🤖
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="78" height="78" />
