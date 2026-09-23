@@ -51,6 +51,8 @@
 <img src="https://raw.githubusercontent.com/paomedia/small-n-flat/master/svg/terminal.svg" alt="Terminal" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/gitlab.svg" alt="GitLab" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Shopify/polaris-react/main/polaris-icons/icons/CodeIcon.svg" alt="Code" width="78" height="78" valign="middle" />
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
