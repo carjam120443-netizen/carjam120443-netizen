@@ -57,6 +57,10 @@
 <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/codescan-24.svg" alt="Code scanning" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/519209/shizuku.svg" alt="Shizuku" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/504554/magisk.svg" alt="Magisk" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/519501/su.svg" alt="SU" width="78" height="78" valign="middle" />
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
