@@ -53,6 +53,10 @@
 <img src="https://thesvg.org/icons/gitlab/default.svg" alt="GitLab" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/codescan-24.svg" alt="Code scanning" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/519209/shizuku.svg" alt="Shizuku" width="78" height="78" valign="middle" />
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
