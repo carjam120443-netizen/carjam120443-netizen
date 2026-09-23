@@ -23,6 +23,8 @@
 <a href="https://www.unix.org/" title="Unix">
 <img src="./assets/unix.svg" alt="Unix" width="78" height="78" />
 </a>
+&nbsp;&nbsp;
+<img src="https://thesvg.org/icons/msdos/default.svg" alt="MS-DOS" width="78" height="78" />
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
