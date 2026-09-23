@@ -38,6 +38,10 @@
 <img src="https://thesvg.org/icons/microsoft-windows/default.svg" alt="Microsoft Windows" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://thesvg.org/icons/git-for-windows/default.svg" alt="Git for Windows" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://thesvg.org/icons/github-copilot/dark.svg" alt="GitHub Copilot" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://thesvg.org/icons/android/default.svg" alt="Android" width="78" height="78" valign="middle" />
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
