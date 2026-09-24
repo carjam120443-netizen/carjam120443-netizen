@@ -67,6 +67,10 @@
 <img src="https://www.svgrepo.com/show/519501/su.svg" alt="SU" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/442615/android-smartphone-down.svg" alt="Android smartphone down" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/449183/platform-firefox.svg" alt="Firefox" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://cdn.svglogos.dev/logos/gitkraken.svg" alt="GitKraken" width="78" height="78" valign="middle" />
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
