@@ -42,6 +42,8 @@
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/365887/windows-logo-thin.svg" alt="Windows logo thin" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/176748/windows-windows.svg" alt="Windows Windows" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
 <img src="https://thesvg.org/icons/git-for-windows/default.svg" alt="Git for Windows" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://thesvg.org/icons/github-copilot/dark.svg" alt="GitHub Copilot" width="78" height="78" valign="middle" />
@@ -63,6 +65,8 @@
 <img src="https://www.svgrepo.com/show/504554/magisk.svg" alt="Magisk" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/519501/su.svg" alt="SU" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/442615/android-smartphone-down.svg" alt="Android smartphone down" width="78" height="78" valign="middle" />
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
