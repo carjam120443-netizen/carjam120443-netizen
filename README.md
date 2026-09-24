@@ -113,7 +113,7 @@ _)      \\.___.,|     .'
      `-'       `--' hjm
 ```
 
-### 🪟 Windows / PowerShell Art
+### 🖥️ System / Fastfetch Art
 
 ```text
         -o          o-
