@@ -10,6 +10,8 @@
 
 <p><strong>⚠️ If you scroll down, prepare for chaos-</strong></p>
 
+<img src="https://files.svgcdn.io/material-symbols/account-child-invert-rounded.svg" alt="Account Child" width="78" height="78" valign="middle" />&nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="Linux" width="78" height="78" valign="middle" />
