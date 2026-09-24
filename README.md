@@ -40,6 +40,8 @@
 &nbsp;&nbsp;
 <img src="https://thesvg.org/icons/microsoft-windows/default.svg" alt="Microsoft Windows" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/365887/windows-logo-thin.svg" alt="Windows logo thin" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
 <img src="https://thesvg.org/icons/git-for-windows/default.svg" alt="Git for Windows" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://thesvg.org/icons/github-copilot/dark.svg" alt="GitHub Copilot" width="78" height="78" valign="middle" />
