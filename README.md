@@ -12,6 +12,8 @@
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="Linux" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linux-icon.png" alt="Linux icon" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/514183/open-eye.svg" alt="Open Eye" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/346170/open-source-fill.svg" alt="Open Source" width="78" height="78" valign="middle" />
