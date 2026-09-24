@@ -10,6 +10,12 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/448236/linux.svg" alt="Linux" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/514183/open-eye.svg" alt="Open Eye" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/346170/open-source-fill.svg" alt="Open Source" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="78" height="78" valign="middle" />
