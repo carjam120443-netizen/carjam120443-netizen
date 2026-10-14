@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Tux coding while Carson11 chills</title>
+  <desc id="desc">A playful fictional bedroom office. Tux the Linux penguin works at a computer with a terminal on screen, while Carson11 relaxes on a couch with a game controller. Carson11 is represented by a Windows 11-style four-pane logo head to preserve privacy.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d8e9ff"/><stop offset="1" stop-color="#d9d5ff"/></linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#b9cbe6"/><stop offset="1" stop-color="#829bbd"/></linearGradient>
+    <linearGradient id="desk" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#bd8c69"/><stop offset="1" stop-color="#8c6048"/></linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10243c"/><stop offset="1" stop-color="#183d55"/></linearGradient>
+    <linearGradient id="sofa" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#687fb9"/><stop offset="1" stop-color="#3d568d"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#263c5a" flood-opacity=".2"/></filter>
+    <style>
+      .line{stroke:#273b59;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+      .mono{font-family:Consolas,Monaco,monospace;font-weight:600}
+      .label{font-family:'Segoe UI',Arial,sans-serif;font-weight:800;letter-spacing:2px}
+    </style>
+  </defs>
+  <rect width="1200" height="700" rx="28" fill="url(#wall)"/>
+  <path d="M0 530L1200 505V700H0Z" fill="url(#floor)"/>
+  <path d="M0 530L1200 505" stroke="#f5f8ff" stroke-width="7" opacity=".85"/>
+  <!-- window -->
+  <g filter="url(#shadow)">
+    <rect x="48" y="42" width="235" height="205" rx="15" fill="#f7fbff" stroke="#91afd3" stroke-width="5"/>
+    <rect x="62" y="56" width="207" height="177" rx="8" fill="#253d70"/>
+    <circle cx="220" cy="91" r="18" fill="#ffe9aa"/>
+    <g fill="#fff"><circle cx="99" cy="90" r="3"/><circle cx="153" cy="122" r="2.5"/><circle cx="115" cy="173" r="3"/><circle cx="241" cy="187" r="2.5"/><circle cx="185" cy="75" r="2"/></g>
+    <path d="M62 204l50-51 38 28 33-40 86 68v24H62Z" fill="#547da8"/>
+    <path d="M165 56v177M62 143h207" stroke="#e9f3ff" stroke-width="8"/>
+  </g>
+  <!-- wall poster -->
+  <g filter="url(#shadow)">
+    <rect x="328" y="52" width="180" height="112" rx="10" fill="#f8fbff" stroke="#9ab5d7" stroke-width="4"/>
+    <rect x="341" y="65" width="154" height="86" rx="5" fill="#e6f2ff"/>
+    <text x="418" y="97" text-anchor="middle" class="label" font-size="15" fill="#315783">LINUX MODE</text>
+    <path d="M367 119h102M381 133h74" stroke="#4a9c8b" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <!-- desk and PC -->
+  <g filter="url(#shadow)">
+    <path d="M80 410H700L676 446H99Z" fill="url(#desk)" class="line"/>
+    <path d="M125 445v175M652 445v175" stroke="#76523f" stroke-width="18" stroke-linecap="round"/>
+    <rect x="283" y="226" width="298" height="184" rx="14" fill="#243650" stroke="#17273d" stroke-width="6"/>
+    <rect x="298" y="241" width="268" height="153" rx="5" fill="url(#screen)"/>
+    <rect x="298" y="241" width="268" height="23" rx="5" fill="#304b6a"/>
+    <circle cx="313" cy="252" r="4" fill="#ff8989"/><circle cx="326" cy="252" r="4" fill="#ffd47e"/><circle cx="339" cy="252" r="4" fill="#7be0a9"/>
+    <text x="354" y="256" font-family="Arial" font-size="10" fill="#d9e9ff">tux@linux: ~/projects</text>
+    <g class="mono" font-size="16">
+      <text x="314" y="289" fill="#79e2c1">$ make all</text>
+      <text x="314" y="311" fill="#e8f2ff">[ OK ] compile kernel</text>
+      <text x="314" y="333" fill="#e8f2ff">[ OK ] build project</text>
+      <text x="314" y="355" fill="#ffc87e">sudo make snacks</text>
+      <text x="314" y="377" fill="#7de3b2">Build successful ✓</text>
+    </g>
+    <path d="M402 410v22h59v-22" fill="#637b9b" stroke="#263852" stroke-width="4"/>
+    <path d="M370 433h122l18 10H352Z" fill="#dbe7f6" stroke="#4f6788" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M220 420h117l19 22H201Z" fill="#dce8f7" stroke="#5c7597" stroke-width="4" stroke-linejoin="round"/>
+    <g stroke="#9ab0cd" stroke-width="3"><path d="M224 428h111M216 436h128M245 423l-7 16M266 423l-3 16M287 423v16M308 423l5 16"/></g>
+    <!-- mug -->
+    <path d="M140 367h54v43q-27 14-54 0Z" fill="#fff" stroke="#526b8d" stroke-width="4"/>
+    <path d="M194 376q29-4 14 22h-14" fill="none" stroke="#526b8d" stroke-width="5"/>
+    <text x="167" y="395" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold" fill="#2d7f72">TUX</text>
+    <!-- small plant -->
+    <rect x="620" y="375" width="48" height="35" rx="5" fill="#d9a58b" stroke="#8d604e" stroke-width="4"/>
+    <path d="M644 376q-30-33-36-7q22 1 36 17q5-37 31-33q-2 23-31 38" fill="#47a77f" stroke="#31816a" stroke-width="3"/>
+  </g>
+  <!-- Tux: classic penguin coding at the keyboard -->
+  <g filter="url(#shadow)">
+    <!-- feet -->
+    <path d="M174 515q-23 2-26 19q23 11 48-1l-2-14M247 515q24 2 27 19q-23 11-48-1l2-14" fill="#f4a23d" class="line"/>
+    <!-- body -->
+    <ellipse cx="210" cy="414" rx="71" ry="100" fill="#202a38" class="line"/>
+    <ellipse cx="210" cy="431" rx="47" ry="70" fill="#f7fbff" stroke="#c8d5e7" stroke-width="4"/>
+    <!-- head -->
+    <circle cx="210" cy="335" r="58" fill="#202a38" class="line"/>
+    <ellipse cx="193" cy="340" rx="20" ry="26" fill="#fff"/>
+    <ellipse cx="229" cy="340" rx="20" ry="26" fill="#fff"/>
+    <circle cx="199" cy="342" r="8" fill="#172438"/><circle cx="223" cy="342" r="8" fill="#172438"/>
+    <path d="M198 362l12 10 13-10q-12-8-25 0Z" fill="#f2a13d" stroke="#b96b23" stroke-width="3" stroke-linejoin="round"/>
+    <!-- flippers typing -->
+    <path d="M160 410q-38 9-36 37q2 14 22 7l37-26M260 410q37 11 35 37q-2 14-22 7l-37-26" fill="#202a38" class="line"/>
+    <path d="M153 445l51-20M269 445l-51-20" stroke="#202a38" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <!-- Carson11 chilling on couch -->
+  <g filter="url(#shadow)">
+    <path d="M744 413q0-45 46-45h308q44 0 44 45v135H744Z" fill="url(#sofa)" class="line"/>
+    <rect x="724" y="477" width="443" height="104" rx="35" fill="#526aa2" class="line"/>
+    <rect x="748" y="530" width="395" height="50" rx="18" fill="#354c7e"/>
+    <path d="M762 574v34M1135 574v34" stroke="#273b59" stroke-width="12" stroke-linecap="round"/>
+    <!-- cushions -->
+    <rect x="766" y="433" width="112" height="87" rx="20" fill="#9fb5e7" stroke="#273b59" stroke-width="4"/>
+    <rect x="1018" y="433" width="112" height="87" rx="20" fill="#9fb5e7" stroke="#273b59" stroke-width="4"/>
+    <!-- relaxed body -->
+    <path d="M845 440q17-38 62-33l104 18q40 7 47 42l-16 46H858Z" fill="#2c8bd2" class="line"/>
+    <path d="M871 450l-22 40q-8 15 8 22q14 6 23-10l28-36M1022 453l31 35q12 13 23 0q8-13-5-25l-27-30" fill="#e8b994" class="line"/>
+    <!-- head: Windows 11 style logo, no real face -->
+    <g transform="translate(914 344) rotate(8)">
+      <rect x="-57" y="-48" width="114" height="94" rx="15" fill="#f7fbff" stroke="#273b59" stroke-width="5"/>
+      <path d="M-43-34h38v31h-38Z" fill="#36a9f5"/><path d="M1-34h38v31H1Z" fill="#1685d2"/>
+      <path d="M-43 7h38v26h-38Z" fill="#1685d2"/><path d="M1 7h38v26H1Z" fill="#36a9f5"/>
+      <path d="M-50-41q-13-18-22-1M50-41q13-18 22-1" fill="none" stroke="#273b59" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <!-- controller held while chilling -->
+    <path d="M906 469q-3-17 17-20l63-3q19 0 22 18l-5 22q-3 13-17 10l-20-10-27 2-17 10q-13 6-17-9Z" fill="#202c40" stroke="#17273d" stroke-width="4"/>
+    <path d="M927 463v18M918 472h18" stroke="#e8f2ff" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="985" cy="466" r="5" fill="#70d9b6"/><circle cx="998" cy="478" r="5" fill="#f3a4a8"/>
+    <!-- floating chill marks -->
+    <path d="M1090 335q18-23 34 0q-17-8-20 12M1084 360q13-18 27-2" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+  </g>
+  <!-- labels -->
+  <g>
+    <rect x="104" y="594" width="210" height="48" rx="24" fill="#202a38"/>
+    <text x="209" y="624" text-anchor="middle" class="label" font-size="20" fill="#fff">TUX • CODING</text>
+    <rect x="824" y="611" width="270" height="48" rx="24" fill="#eaf3ff" stroke="#5474a9" stroke-width="3"/>
+    <text x="959" y="641" text-anchor="middle" class="label" font-size="20" fill="#315783">CARSON11 • CHILLING</text>
+  </g>
+  <text x="600" y="682" text-anchor="middle" class="label" font-size="13" fill="#f8fbff">LINUX HANDLES THE BUILD • CARSON11 HANDLES THE VIBES</text>
+</svg>
