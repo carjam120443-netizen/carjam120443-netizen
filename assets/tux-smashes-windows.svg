@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="260" viewBox="0 0 420 260" role="img" aria-labelledby="title desc">
+  <title id="title">Tux smashing the Windows logo with a hammer</title>
+  <desc id="desc">A cartoon Linux penguin swings a hammer into a four-pane blue Windows logo, with comic impact marks.</desc>
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#62d7ff"/><stop offset="1" stop-color="#0878e8"/>
+    </linearGradient>
+    <linearGradient id="belly" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#e9eef5"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#101827"/>
+  <circle cx="212" cy="126" r="105" fill="#1a2b43"/>
+  <!-- Windows logo, taking the hit -->
+  <g transform="translate(258 88) rotate(12)">
+    <path d="M0 0 L44 -7 L44 34 L0 34Z" fill="url(#win)"/>
+    <path d="M50 -8 L96 -15 L96 34 L50 34Z" fill="url(#win)"/>
+    <path d="M0 40 L44 40 L44 81 L0 74Z" fill="url(#win)"/>
+    <path d="M50 40 L96 40 L96 89 L50 82Z" fill="url(#win)"/>
+  </g>
+  <!-- Impact burst -->
+  <path d="M266 105 L244 91 L253 113 L231 111 L249 126 L234 143 L258 137 L263 158 L275 137 L293 149 L286 126 L306 117 L283 112 L289 92Z" fill="#ffd34d" stroke="#fff0a3" stroke-width="2"/>
+  <path d="M279 86 L288 69 M299 103 L318 95 M293 143 L310 154" stroke="#ffd34d" stroke-width="4" stroke-linecap="round"/>
+  <!-- Tux body -->
+  <ellipse cx="142" cy="164" rx="61" ry="75" fill="#080b10" stroke="#384253" stroke-width="3"/>
+  <ellipse cx="142" cy="176" rx="39" ry="52" fill="url(#belly)"/>
+  <ellipse cx="126" cy="105" rx="37" ry="35" fill="#080b10"/>
+  <ellipse cx="158" cy="105" rx="37" ry="35" fill="#080b10"/>
+  <ellipse cx="126" cy="111" rx="18" ry="22" fill="#fff"/>
+  <ellipse cx="158" cy="111" rx="18" ry="22" fill="#fff"/>
+  <circle cx="132" cy="112" r="7" fill="#111827"/>
+  <circle cx="152" cy="112" r="7" fill="#111827"/>
+  <circle cx="134" cy="109" r="2.5" fill="#fff"/>
+  <circle cx="154" cy="109" r="2.5" fill="#fff"/>
+  <path d="M132 130 Q143 139 155 130 L144 146Z" fill="#ffad22" stroke="#e18a00" stroke-width="2"/>
+  <!-- Flippers -->
+  <path d="M99 143 Q76 123 66 102 Q61 92 70 87 Q79 83 87 98 L116 128Z" fill="#080b10" stroke="#384253" stroke-width="3"/>
+  <path d="M180 142 Q203 125 218 107 Q226 98 233 106 Q240 114 228 127 L194 159Z" fill="#080b10" stroke="#384253" stroke-width="3"/>
+  <!-- Hammer handle and head -->
+  <path d="M220 112 L267 52" stroke="#c47a3b" stroke-width="12" stroke-linecap="round"/>
+  <path d="M220 112 L267 52" stroke="#f3b56b" stroke-width="4" stroke-linecap="round"/>
+  <g transform="translate(270 48) rotate(35)">
+    <rect x="-33" y="-16" width="67" height="32" rx="6" fill="#a9b5c6" stroke="#e4ebf5" stroke-width="3"/>
+    <rect x="-26" y="-10" width="52" height="8" rx="3" fill="#e6edf7" opacity=".8"/>
+  </g>
+  <!-- Feet -->
+  <path d="M105 224 Q85 218 76 230 Q88 243 116 237Z" fill="#ffad22"/>
+  <path d="M160 231 Q185 221 198 234 Q185 246 158 241Z" fill="#ffad22"/>
+  <text x="18" y="28" fill="#c7d9f3" font-family="Arial, sans-serif" font-size="13" font-weight="700">LINUX JUST WANTS TO TALK</text>
+  <text x="18" y="249" fill="#9bb0ca" font-family="Arial, sans-serif" font-size="11">100% unnecessary OS rivalry • 0% actual damage</text>
+</svg>
