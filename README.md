@@ -182,14 +182,14 @@ _)      \\.___.,|     .'
 
 *Linux: “I have a very constructive suggestion for your window.”* 💀
 
-### 🤝🪟🤖 Windows 11 + ChatGPT — Coding Buddies
+### 🤝🪟🤖 Carson + ChatGPT — Coding Buddies
 
 <div align="center">
 
-<img src="./assets/windows-chatgpt-code-team.svg" alt="Friendly Windows 11 and ChatGPT-inspired characters in casual clothes collaborating on code, with a fictional bedroom on the Windows side and a coding environment on the ChatGPT side" width="720" />
+<img src="./assets/windows-chatgpt-code-team.svg" alt="Carson, represented by a privacy-preserving Windows-logo-headed avatar, coding at a PC in a cozy fictional bedroom while a friendly ChatGPT AI orb floats nearby with code panels" width="720" />
 
-*Windows: “It compiles!”*  
-*ChatGPT: “Nice. Now let's figure out why the tests are yelling.”* 💻✨
+*Carson: “It compiles!”*  
+*ChatGPT, floating over the desk: “Nice. Now let's figure out why the tests are yelling.”* 💻✨
 
 </div>
 
