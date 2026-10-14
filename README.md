@@ -197,6 +197,18 @@ _)      \\.___.,|     .'
 
 <div align="center">
 
+<img src="./assets/code-icon.svg" alt="Code icon" width="24" height="24" />
+
+</div>
+
+Use the reusable code icon in Markdown or HTML with:
+
+```html
+<img src="./assets/code-icon.svg" alt="Code icon" width="24" height="24" />
+```
+
+<div align="center">
+
 <img src="./assets/tux-carson11-coding.svg" alt="Tux the Linux penguin coding at a PC while Carson11, represented by a privacy-preserving Windows 11-style logo head, relaxes on a couch with a game controller" width="720" />
 
 *Tux: “The build is compiling.”*  
