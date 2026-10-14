@@ -100,6 +100,8 @@
 <img src="./assets/debian-folder.svg" alt="Debian logo on a closed folder" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="./assets/bash-command.svg" alt="Bash Command" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="./assets/tux-smashes-windows.svg" alt="Tux smashing the Windows logo with a hammer" width="110" height="78" valign="middle" />
 
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
@@ -142,6 +144,16 @@ _)      \\.___.,|     .'
 \\____   )MMMMMP|   .'
      `-'       `--' hjm
 ```
+
+### 🔨🐧 Tux vs. Windows — for absolutely no reason
+
+<div align="center">
+
+<img src="./assets/tux-smashes-windows.svg" alt="Tux smashing the Windows logo with a hammer" width="420" />
+
+*Linux: “I have a very constructive suggestion for your window.”* 💀
+
+</div>
 
 ### 🖥️ android / Fastfetch Art
 
