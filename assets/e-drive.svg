@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="300" viewBox="0 0 420 300" role="img" aria-labelledby="title desc">
+  <title id="title">External E drive</title>
+  <desc id="desc">A blue external hard drive with a glowing status light and E drive label.</desc>
+  <defs>
+    <linearGradient id="case" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#eaf7ff"/>
+      <stop offset=".35" stop-color="#8ebfe9"/>
+      <stop offset="1" stop-color="#275c91"/>
+    </linearGradient>
+    <linearGradient id="front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3b78b3"/>
+      <stop offset="1" stop-color="#153b66"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="12" stdDeviation="9" flood-color="#06172d" flood-opacity=".5"/>
+    </filter>
+  </defs>
+  <rect width="420" height="300" rx="24" fill="#0c1d35"/>
+  <circle cx="330" cy="64" r="52" fill="#2d79c7" opacity=".16"/>
+  <circle cx="78" cy="232" r="45" fill="#77c7ff" opacity=".1"/>
+  <g filter="url(#shadow)" transform="translate(55 48)">
+    <path d="M28 34 Q28 18 46 18 H282 Q302 18 302 38 V163 Q302 181 283 181 H47 Q28 181 28 162Z" fill="url(#case)" stroke="#d7efff" stroke-width="3"/>
+    <path d="M31 121 H299 V160 Q299 178 281 178 H49 Q31 178 31 160Z" fill="url(#front)"/>
+    <path d="M43 31 H276 Q289 31 289 43 V103 H43Z" fill="url(#shine)" opacity=".48"/>
+    <path d="M53 45 H271" stroke="#fff" stroke-opacity=".65" stroke-width="3" stroke-linecap="round"/>
+    <rect x="53" y="136" width="92" height="24" rx="6" fill="#102c4d" stroke="#9ccfff" stroke-opacity=".65"/>
+    <text x="99" y="153" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#e8f6ff">E: DRIVE</text>
+    <circle cx="257" cy="148" r="7" fill="#75ffb2" stroke="#d9ffe8" stroke-width="2"/>
+    <circle cx="257" cy="148" r="15" fill="#75ffb2" opacity=".16"/>
+    <path d="M173 144 H224" stroke="#8fcaff" stroke-width="4" stroke-linecap="round" opacity=".8"/>
+    <path d="M173 155 H211" stroke="#8fcaff" stroke-width="3" stroke-linecap="round" opacity=".45"/>
+    <rect x="12" y="75" width="16" height="38" rx="4" fill="#8ebfe9" stroke="#d7efff" stroke-width="2"/>
+    <rect x="302" y="75" width="16" height="38" rx="4" fill="#8ebfe9" stroke="#d7efff" stroke-width="2"/>
+  </g>
+  <text x="210" y="255" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#d9efff" text-anchor="middle">EXTERNAL STORAGE • INTERNAL CHAOS</text>
+  <text x="210" y="278" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8db8e2" text-anchor="middle">ISOs, VMs, portable apps… send help</text>
+</svg>
