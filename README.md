@@ -109,6 +109,8 @@
 &nbsp;&nbsp;
 <img src="./assets/tux-defends-open-source.svg" alt="Tux with a sword defending open source while a Windows logo shatters in a cartoon" width="110" height="78" valign="middle" />
 &nbsp;&nbsp;
+<img src="./assets/microsoft-sales-arrow.svg" alt="Satirical Microsoft logo with a red downward arrow and falling chart; not actual sales data" width="110" height="78" valign="middle" />
+&nbsp;&nbsp;
 
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
@@ -186,6 +188,16 @@ _)      \\.___.,|     .'
 <img src="./assets/tux-defends-open-source.svg" alt="Custom Tux with a sword, an open-source emblem, and a shattered Windows logo" width="620" />
 
 *Open source: share it, improve it, remix it. Windows: “WHY IS THERE A PENGUIN WITH A SWORD?!”* 💀🐧
+
+</div>
+
+### 📉🪟 Microsoft and the Red Arrow of Doom
+
+<div align="center">
+
+<img src="./assets/microsoft-sales-arrow.svg" alt="Satirical Microsoft logo with a red downward arrow and falling chart; not actual sales data" width="620" />
+
+*“I own a Windows PC. That doesn’t make me a customer.”* 😭💀
 
 </div>
 
