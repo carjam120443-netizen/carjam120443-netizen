@@ -90,6 +90,9 @@
 <img src="https://cdn.svglogos.dev/logos/gitkraken.svg" alt="GitKraken" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://files.svgcdn.io/icon-park/search.svg" alt="Search" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/528182/code-file.svg" alt="Code File" width="78" height="78" valign="middle" />
+
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
@@ -293,13 +296,19 @@ A small graveyard for older experiments, abandoned forks, and projects I've deci
 - 🧩 Bootloaders, initramfs, squashfs and ISO internals
 - 🤖 AI and experimental web projects
 
-## 🔗🌐 Find Me Online
+## 📱🎵 Social Media
 
 | 🌐 Platform | 👤 Profile |
 |:---:|:---|
+| 🎧 **Spotify** | [Carson / Modestsongs401](https://open.spotify.com/artist/7w3eotYjg6CCodYjxNIpTI?si=p0bXMEPBSy2IUdxUd-us_A) |
+| 🎵 **TikTok** | [@carson58700](https://www.tiktok.com/@carson58700?lang=en) |
 | 📺 **YouTube** | [@spongebobhijacks](https://www.youtube.com/@spongebobhijacks) |
+
+## 🔗🌐 Other Places Online
+
+| 🌐 Platform | 👤 Profile |
+|:---:|:---|
 | 🎵 **Suno** | [@modestsongs401](https://suno.com/@modestsongs401) |
-| 🎵 **TikTok** | [@carsonp4848](https://www.tiktok.com/@carsonp4848) |
 | 📚 **Internet Archive** | [@carson_poole643](https://archive.org/details/@carson_poole643) |
 
 ## 🤖🧑‍💻 Code Helper
