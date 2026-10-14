@@ -97,7 +97,7 @@
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/373276/linux.svg" alt="Linux" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/374276/debian.svg" alt="Debian" width="78" height="78" valign="middle" />
+<img src="./assets/debian-folder.svg" alt="Debian logo on a closed folder" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="./assets/bash-command.svg" alt="Bash Command" width="78" height="78" valign="middle" />
 
