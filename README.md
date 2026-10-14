@@ -11,25 +11,25 @@
 
 <p><strong>⚠️ If you scroll down, prepare for chaos-</strong></p>
 
-<img src="https://files.svgcdn.io/material-symbols/account-child-invert-rounded.svg" alt="Account Child" width="78" height="78" valign="middle" />&nbsp;&nbsp;<img src="https://files.svgcdn.io/material-symbols/folder-shared-sharp.svg" alt="Shared Folder" width="78" height="78" valign="middle" />&nbsp;&nbsp;<img src="https://files.svgcdn.io/logos/puppy-linux.svg" alt="Puppy Linux" width="78" height="78" valign="middle" />&nbsp;&nbsp;<img src="https://files.svgcdn.io/skill-icons/linux-dark.svg" alt="Linux Dark" width="78" height="78" valign="middle" />&nbsp;&nbsp;<img src="https://files.svgcdn.io/streamline-stickies-color/programming.svg" alt="Programming" width="78" height="78" valign="middle" />&nbsp;&nbsp;<img src="https://files.svgcdn.io/streamline-ultimate/programming-browser-1-bold.svg" alt="Programming Browser" width="78" height="78" valign="middle" />&nbsp;&nbsp;<img src="https://files.svgcdn.io/streamline-ultimate/programming-hold-code-2.svg" alt="Programming Hold Code" width="78" height="78" valign="middle" />&nbsp;&nbsp;<img src="https://files.svgcdn.io/hugeicons/computer-programming-01.svg" alt="Computer Programming" width="78" height="78" valign="middle" />&nbsp;&nbsp;<img src="https://files.svgcdn.io/fluent-mdl2/report-hacked.svg" alt="Report Hacked" width="78" height="78" valign="middle" />&nbsp;&nbsp;<img src="https://files.svgcdn.io/solar/server-path-line-duotone.svg" alt="Server Path" width="78" height="78" valign="middle" />&nbsp;&nbsp;<img src="https://files.svgcdn.io/iconoir/path-arrow.svg" alt="Path Arrow" width="78" height="78" valign="middle" />&nbsp;&nbsp;<img src="https://files.svgcdn.io/streamline/interface-edit-pathfinder-outline-pathfinder-outline-work.svg" alt="Pathfinder Work" width="78" height="78" valign="middle" />&nbsp;&nbsp;
+<a href="https://fonts.google.com/icons?selected=Material+Symbols+Outlined:account_child" title="Account Child"><img src="https://files.svgcdn.io/material-symbols/account-child-invert-rounded.svg" alt="Account Child" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://github.com/" title="Shared Folder"><img src="https://files.svgcdn.io/material-symbols/folder-shared-sharp.svg" alt="Shared Folder" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://puppylinux-woof-ce.github.io/" title="Puppy Linux"><img src="https://files.svgcdn.io/logos/puppy-linux.svg" alt="Puppy Linux" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://www.linux.org/" title="Linux Dark"><img src="https://files.svgcdn.io/skill-icons/linux-dark.svg" alt="Linux Dark" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://github.com/topics/programming" title="Programming"><img src="https://files.svgcdn.io/streamline-stickies-color/programming.svg" alt="Programming" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/" title="Programming Browser"><img src="https://files.svgcdn.io/streamline-ultimate/programming-browser-1-bold.svg" alt="Programming Browser" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://github.com/topics/software-development" title="Programming Hold Code"><img src="https://files.svgcdn.io/streamline-ultimate/programming-hold-code-2.svg" alt="Programming Hold Code" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://www.freecodecamp.org/" title="Computer Programming"><img src="https://files.svgcdn.io/hugeicons/computer-programming-01.svg" alt="Computer Programming" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://www.cisa.gov/" title="Report Hacked"><img src="https://files.svgcdn.io/fluent-mdl2/report-hacked.svg" alt="Report Hacked" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://github.com/topics/server" title="Server Path"><img src="https://files.svgcdn.io/solar/server-path-line-duotone.svg" alt="Server Path" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://github.com/" title="Path Arrow"><img src="https://files.svgcdn.io/iconoir/path-arrow.svg" alt="Path Arrow" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://github.com/topics/developer-tools" title="Pathfinder Work"><img src="https://files.svgcdn.io/streamline/interface-edit-pathfinder-outline-pathfinder-outline-work.svg" alt="Pathfinder Work" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="78" height="78" valign="middle" />
+<a href="https://www.kernel.org/" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/448236/linux.svg" alt="Linux" width="78" height="78" valign="middle" />
+<a href="https://www.kernel.org/" title="Linux"><img src="https://www.svgrepo.com/show/448236/linux.svg" alt="Linux" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linux-icon.png" alt="Linux icon" width="78" height="78" valign="middle" />
+<a href="https://www.linux.org/" title="Linux icon"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linux-icon.png" alt="Linux icon" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/514183/open-eye.svg" alt="Open Eye" width="78" height="78" valign="middle" />
+<a href="https://opensource.org/" title="Open Eye"><img src="https://www.svgrepo.com/show/514183/open-eye.svg" alt="Open Eye" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/346170/open-source-fill.svg" alt="Open Source" width="78" height="78" valign="middle" />
+<a href="https://opensource.org/" title="Open Source"><img src="https://www.svgrepo.com/show/346170/open-source-fill.svg" alt="Open Source" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/445156/hacker-solid.svg" alt="Hacker" width="78" height="78" valign="middle" />
+<a href="https://www.kali.org/" title="Hacker"><img src="https://www.svgrepo.com/show/445156/hacker-solid.svg" alt="Hacker" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/crime-security-military-law/crime-hacker-icon.png" alt="Hacker icon" width="78" height="78" valign="middle" />
+<a href="https://www.kali.org/" title="Hacker icon"><img src="https://uxwing.com/wp-content/themes/uxwing/download/crime-security-military-law/crime-hacker-icon.png" alt="Hacker icon" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="78" height="78" valign="middle" />
+<a href="https://www.android.com/" title="Android"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="78" height="78" valign="middle" />
+<a href="https://github.com/carjam120443-netizen" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
 <a href="https://opensource.org/" title="Open Source Initiative">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/opensourceinitiative.svg" alt="Open Source Initiative" width="78" height="78" valign="middle" />
@@ -47,73 +47,85 @@
 <img src="./assets/unix.svg" alt="Unix" width="78" height="78" valign="middle" />
 </a>
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/msdos/default.svg" alt="MS-DOS" width="78" height="78" valign="middle" />
+<a href="https://archive.org/" title="MS-DOS"><img src="https://thesvg.org/icons/msdos/default.svg" alt="MS-DOS" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/internet-archive/default.svg" alt="Internet Archive" width="78" height="78" valign="middle" />
+<a href="https://archive.org/" title="Internet Archive"><img src="https://thesvg.org/icons/internet-archive/default.svg" alt="Internet Archive" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/gnome-terminal/default.svg" alt="GNOME Terminal" width="78" height="78" valign="middle" />
+<a href="https://apps.gnome.org/Console/" title="GNOME Terminal"><img src="https://thesvg.org/icons/gnome-terminal/default.svg" alt="GNOME Terminal" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/openai-chatgpt/mono.svg" alt="OpenAI ChatGPT" width="78" height="78" valign="middle" />
+<a href="https://chatgpt.com/" title="OpenAI ChatGPT"><img src="https://thesvg.org/icons/openai-chatgpt/mono.svg" alt="OpenAI ChatGPT" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/microsoft-windows/default.svg" alt="Microsoft Windows" width="78" height="78" valign="middle" />
+<a href="https://www.microsoft.com/windows" title="Microsoft Windows"><img src="https://thesvg.org/icons/microsoft-windows/default.svg" alt="Microsoft Windows" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/365887/windows-logo-thin.svg" alt="Windows logo thin" width="78" height="78" valign="middle" />
+<a href="https://www.microsoft.com/windows" title="Windows logo thin"><img src="https://www.svgrepo.com/show/365887/windows-logo-thin.svg" alt="Windows logo thin" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/176748/windows-windows.svg" alt="Windows Windows" width="78" height="78" valign="middle" />
+<a href="https://www.microsoft.com/windows" title="Windows Windows"><img src="https://www.svgrepo.com/show/176748/windows-windows.svg" alt="Windows Windows" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/git-for-windows/default.svg" alt="Git for Windows" width="78" height="78" valign="middle" />
+<a href="https://gitforwindows.org/" title="Git for Windows"><img src="https://thesvg.org/icons/git-for-windows/default.svg" alt="Git for Windows" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/github-copilot/dark.svg" alt="GitHub Copilot" width="78" height="78" valign="middle" />
+<a href="https://github.com/features/copilot" title="GitHub Copilot"><img src="https://thesvg.org/icons/github-copilot/dark.svg" alt="GitHub Copilot" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/android/default.svg" alt="Android" width="78" height="78" valign="middle" />
+<a href="https://www.android.com/" title="Android"><img src="https://thesvg.org/icons/android/default.svg" alt="Android" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/virtualbox/default.svg" alt="VirtualBox" width="78" height="78" valign="middle" />
+<a href="https://www.virtualbox.org/" title="VirtualBox"><img src="https://thesvg.org/icons/virtualbox/default.svg" alt="VirtualBox" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="./assets/terminal.svg" alt="Terminal" width="78" height="78" valign="middle" />
+<a href="https://github.com/carjam120443-netizen/custom-win-packages" title="Terminal"><img src="./assets/terminal.svg" alt="Terminal" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://thesvg.org/icons/gitlab/default.svg" alt="GitLab" width="78" height="78" valign="middle" />
+<a href="https://gitlab.com/" title="GitLab"><img src="https://thesvg.org/icons/gitlab/default.svg" alt="GitLab" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="78" height="78" valign="middle" />
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/codescan-24.svg" alt="Code scanning" width="78" height="78" valign="middle" />
+<a href="https://docs.github.com/en/code-security/code-scanning" title="Code scanning"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/codescan-24.svg" alt="Code scanning" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/519209/shizuku.svg" alt="Shizuku" width="78" height="78" valign="middle" />
+<a href="https://shizuku.rikka.app/" title="Shizuku"><img src="https://www.svgrepo.com/show/519209/shizuku.svg" alt="Shizuku" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/504554/magisk.svg" alt="Magisk" width="78" height="78" valign="middle" />
+<a href="https://github.com/topjohnwu/Magisk" title="Magisk"><img src="https://www.svgrepo.com/show/504554/magisk.svg" alt="Magisk" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/519501/su.svg" alt="SU" width="78" height="78" valign="middle" />
+<a href="https://github.com/topics/superuser" title="SU"><img src="https://www.svgrepo.com/show/519501/su.svg" alt="SU" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/442615/android-smartphone-down.svg" alt="Android smartphone down" width="78" height="78" valign="middle" />
+<a href="https://www.android.com/" title="Android smartphone down"><img src="https://www.svgrepo.com/show/442615/android-smartphone-down.svg" alt="Android smartphone down" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/449183/platform-firefox.svg" alt="Firefox" width="78" height="78" valign="middle" />
+<a href="https://www.mozilla.org/firefox/" title="Firefox"><img src="https://www.svgrepo.com/show/449183/platform-firefox.svg" alt="Firefox" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://cdn.svglogos.dev/logos/gitkraken.svg" alt="GitKraken" width="78" height="78" valign="middle" />
+<a href="https://www.gitkraken.com/" title="GitKraken"><img src="https://cdn.svglogos.dev/logos/gitkraken.svg" alt="GitKraken" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://files.svgcdn.io/icon-park/search.svg" alt="Search" width="78" height="78" valign="middle" />
+<a href="https://github.com/search" title="Search"><img src="https://files.svgcdn.io/icon-park/search.svg" alt="Search" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/528182/code-file.svg" alt="Code File" width="78" height="78" valign="middle" />
+<a href="https://github.com/" title="Code File"><img src="https://www.svgrepo.com/show/528182/code-file.svg" alt="Code File" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/341378/firefox-browser-internet-web.svg" alt="Firefox Browser Internet Web" width="78" height="78" valign="middle" />
+<a href="https://www.mozilla.org/firefox/" title="Firefox Browser Internet Web"><img src="https://www.svgrepo.com/show/341378/firefox-browser-internet-web.svg" alt="Firefox Browser Internet Web" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/373276/linux.svg" alt="Linux" width="78" height="78" valign="middle" />
+<a href="https://www.kernel.org/" title="Linux"><img src="https://www.svgrepo.com/show/373276/linux.svg" alt="Linux" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="./assets/debian-folder.svg" alt="Debian logo on a closed folder" width="78" height="78" valign="middle" />
+<a href="https://www.debian.org/" title="Debian logo on a closed folder"><img src="./assets/debian-folder.svg" alt="Debian logo on a closed folder" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="./assets/bash-command.svg" alt="Bash Command" width="78" height="78" valign="middle" />
+<a href="https://www.gnu.org/software/bash/" title="Bash Command"><img src="./assets/bash-command.svg" alt="Bash Command" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="./assets/tux-smashes-windows.svg" alt="Tux smashing the Windows logo with a hammer" width="110" height="78" valign="middle" />
+<a href="https://github.com/carjam120443-netizen/carjam120443-netizen/blob/main/assets/tux-smashes-windows.svg" title="Tux smashing the Windows logo with a hammer"><img src="./assets/tux-smashes-windows.svg" alt="Tux smashing the Windows logo with a hammer" width="110" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="./assets/e-drive.svg" alt="External E drive" width="110" height="78" valign="middle" />
+<a href="https://github.com/carjam120443-netizen/carjam120443-netizen/blob/main/assets/e-drive.svg" title="External E drive"><img src="./assets/e-drive.svg" alt="External E drive" width="110" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="./assets/we-hate-defender.svg" alt="We Hate Defender Linux penguin illustration" width="110" height="78" valign="middle" />
+<a href="https://github.com/carjam120443-netizen/carjam120443-netizen/blob/main/assets/we-hate-defender.svg" title="We Hate Defender Linux penguin illustration"><img src="./assets/we-hate-defender.svg" alt="We Hate Defender Linux penguin illustration" width="110" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="./assets/tux-defends-open-source.svg" alt="Tux with a sword defending open source while a Windows logo shatters in a cartoon" width="110" height="78" valign="middle" />
+<a href="https://github.com/carjam120443-netizen/carjam120443-netizen/blob/main/assets/tux-defends-open-source.svg" title="Tux with a sword defending open source while a Windows logo shatters in a cartoon"><img src="./assets/tux-defends-open-source.svg" alt="Tux with a sword defending open source while a Windows logo shatters in a cartoon" width="110" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="./assets/microsoft-sales-arrow.svg" alt="Satirical Microsoft logo with a red downward arrow and falling chart; not actual sales data" width="110" height="78" valign="middle" />
+<a href="https://github.com/carjam120443-netizen/carjam120443-netizen/blob/main/assets/microsoft-sales-arrow.svg" title="Satirical Microsoft logo with a red downward arrow and falling chart; not actual sales data"><img src="./assets/microsoft-sales-arrow.svg" alt="Satirical Microsoft logo with a red downward arrow and falling chart; not actual sales data" width="110" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
-<img src="./assets/open-source-open-minds.svg" alt="Linux penguin beneath the words Open Source, Open Minds" width="110" height="78" valign="middle" />
+<a href="https://github.com/carjam120443-netizen/carjam120443-netizen/blob/main/assets/open-source-open-minds.svg" title="Linux penguin beneath the words Open Source, Open Minds"><img src="./assets/open-source-open-minds.svg" alt="Linux penguin beneath the words Open Source, Open Minds" width="110" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
 
+
+<div align="center">
+
+### 💠🪟 Aero Quick Launch
+
+| 💎 **Profile & Projects** | 🐧 **Open Systems** | 🛠️ **Developer Tools** | 🤖 **Android Lab** |
+|:---:|:---:|:---:|:---:|
+| [GitHub Profile](https://github.com/carjam120443-netizen) · [carsonOS](https://github.com/carjam120443-netizen/carsonOS) | [Linux](https://www.kernel.org/) · [Debian](https://www.debian.org/) · [FreeBSD](https://www.freebsd.org/) | [Custom Win Packages](https://github.com/carjam120443-netizen/custom-win-packages) · [VS Code](https://code.visualstudio.com/) | [Keep Android Open](https://keepandroidopen.org/) · [Shizuku](https://shizuku.rikka.app/) |
+
+</div>
+
+---
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
 
