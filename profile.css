@@ -34,3 +34,5 @@ body {
 .glow {
   filter: drop-shadow(0 0 5px rgba(80, 170, 230, .35));
 }
+
+.root {filter:drop-shadow(0 0 5px rgba (80, 170, 230, .35)) ;}
