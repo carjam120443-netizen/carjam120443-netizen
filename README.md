@@ -111,6 +111,8 @@
 &nbsp;&nbsp;
 <img src="./assets/microsoft-sales-arrow.svg" alt="Satirical Microsoft logo with a red downward arrow and falling chart; not actual sales data" width="110" height="78" valign="middle" />
 &nbsp;&nbsp;
+<img src="./assets/open-source-open-minds.svg" alt="Linux penguin beneath the words Open Source, Open Minds" width="110" height="78" valign="middle" />
+&nbsp;&nbsp;
 
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
@@ -198,6 +200,16 @@ _)      \\.___.,|     .'
 <img src="./assets/microsoft-sales-arrow.svg" alt="Satirical Microsoft logo with a red downward arrow and falling chart; not actual sales data" width="620" />
 
 *“I own a Windows PC. That doesn’t make me a customer.”* 😭💀
+
+</div>
+
+### 🐧💚 Open Source, Open Minds
+
+<div align="center">
+
+<img src="./assets/open-source-open-minds.svg" alt="Custom Linux penguin with an open book beneath the words Open Source, Open Minds" width="620" />
+
+*Learn • Share • Build Together* 🔓💻
 
 </div>
 
