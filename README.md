@@ -107,6 +107,8 @@
 &nbsp;&nbsp;
 <img src="./assets/we-hate-defender.svg" alt="We Hate Defender Linux penguin illustration" width="110" height="78" valign="middle" />
 &nbsp;&nbsp;
+<img src="./assets/tux-defends-open-source.svg" alt="Tux with a sword defending open source while a Windows logo shatters in a cartoon" width="110" height="78" valign="middle" />
+&nbsp;&nbsp;
 
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
@@ -174,6 +176,16 @@ _)      \\.___.,|     .'
 
 *Defender: “LINUX DETECTED?!”*  
 *Carson: “bro it's a virtual machine 💀”*
+
+</div>
+
+### ⚔️🐧 Tux Defends Open Source — Windows Logo Bonked
+
+<div align="center">
+
+<img src="./assets/tux-defends-open-source.svg" alt="Custom Tux with a sword, an open-source emblem, and a shattered Windows logo" width="620" />
+
+*Open source: share it, improve it, remix it. Windows: “WHY IS THERE A PENGUIN WITH A SWORD?!”* 💀🐧
 
 </div>
 
