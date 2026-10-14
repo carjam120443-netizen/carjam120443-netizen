@@ -105,6 +105,8 @@
 &nbsp;&nbsp;
 <img src="./assets/e-drive.svg" alt="External E drive" width="110" height="78" valign="middle" />
 &nbsp;&nbsp;
+<img src="./assets/we-hate-defender.svg" alt="We Hate Defender Linux penguin illustration" width="110" height="78" valign="middle" />
+&nbsp;&nbsp;
 
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
@@ -163,6 +165,15 @@ _)      \\.___.,|     .'
 <img src="./assets/e-drive.svg" alt="Custom blue external E drive illustration" width="420" />
 
 *“I STORE THE ISOs. I STORE THE VMs. WHY IS THERE ANOTHER LINUX DISTRO?!* 😭💽
+
+### 🛡️🐧 We Hate Defender
+
+<div align="center">
+
+<img src="./assets/we-hate-defender.svg" alt="A Linux penguin giving Microsoft Defender a thumbs down" width="520" />
+
+*Defender: “LINUX DETECTED?!”*  
+*Carson: “bro it's a virtual machine 💀”*
 
 </div>
 
