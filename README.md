@@ -182,6 +182,17 @@ _)      \\.___.,|     .'
 
 *Linux: “I have a very constructive suggestion for your window.”* 💀
 
+### 🤝🪟🤖 Windows 11 + ChatGPT — Coding Buddies
+
+<div align="center">
+
+<img src="./assets/windows-chatgpt-code-team.svg" alt="Friendly Windows 11 and ChatGPT-inspired characters in casual clothes collaborating on code, with a fictional bedroom on the Windows side and a coding environment on the ChatGPT side" width="720" />
+
+*Windows: “It compiles!”*  
+*ChatGPT: “Nice. Now let's figure out why the tests are yelling.”* 💻✨
+
+</div>
+
 ### 💾 E: Drive — external storage under pressure
 
 <div align="center">
