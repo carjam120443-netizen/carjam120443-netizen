@@ -123,6 +123,12 @@
 |:---:|:---:|:---:|:---:|
 | [GitHub Profile](https://github.com/carjam120443-netizen) · [carsonOS](https://github.com/carjam120443-netizen/carsonOS) | [Linux](https://www.kernel.org/) · [Debian](https://www.debian.org/) · [FreeBSD](https://www.freebsd.org/) | [Custom Win Packages](https://github.com/carjam120443-netizen/custom-win-packages) · [VS Code](https://code.visualstudio.com/) | [Keep Android Open](https://keepandroidopen.org/) · [Shizuku](https://shizuku.rikka.app/) |
 
+### 🎵💠 Social & Creative Links
+
+| 🎧 **Spotify** | 🎵 **TikTok** | 📺 **YouTube** | 🎶 **Suno** | 📚 **Internet Archive** |
+|:---:|:---:|:---:|:---:|:---:|
+| [Carson / Modestsongs401](https://open.spotify.com/artist/7w3eotYjg6CCodYjxNIpTI?si=p0bXMEPBSy2IUdxUd-us_A) | [@carson58700](https://www.tiktok.com/@carson58700?lang=en) | [@spongebobhijacks](https://www.youtube.com/@spongebobhijacks) | [@modestsongs401](https://suno.com/@modestsongs401) | [@carson_poole643](https://archive.org/details/@carson_poole643) |
+
 </div>
 
 ---
@@ -385,21 +391,6 @@ A small graveyard for older experiments, abandoned forks, and projects I've deci
 - 💻 CLI tools, shells and custom utilities
 - 🧩 Bootloaders, initramfs, squashfs and ISO internals
 - 🤖 AI and experimental web projects
-
-## 📱🎵 Social Media
-
-| 🌐 Platform | 👤 Profile |
-|:---:|:---|
-| 🎧 **Spotify** | [Carson / Modestsongs401](https://open.spotify.com/artist/7w3eotYjg6CCodYjxNIpTI?si=p0bXMEPBSy2IUdxUd-us_A) |
-| 🎵 **TikTok** | [@carson58700](https://www.tiktok.com/@carson58700?lang=en) |
-| 📺 **YouTube** | [@spongebobhijacks](https://www.youtube.com/@spongebobhijacks) |
-
-## 🔗🌐 Other Places Online
-
-| 🌐 Platform | 👤 Profile |
-|:---:|:---|
-| 🎵 **Suno** | [@modestsongs401](https://suno.com/@modestsongs401) |
-| 📚 **Internet Archive** | [@carson_poole643](https://archive.org/details/@carson_poole643) |
 
 ## 🤖🧑‍💻 Code Helper
 
