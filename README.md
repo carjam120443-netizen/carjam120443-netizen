@@ -258,6 +258,26 @@ Some of the projects I worked on under **`carjam1200-jpg`** included:
 | 📦 **cpkg** | Custom package-manager experimentation |
 | 🔐 **PrivLink** | Privacy/networking experimentation |
 
+## 🪦💀 Retired & Archived Projects
+
+A small graveyard for older experiments, abandoned forks, and projects I've decided not to maintain anymore. They're staying public as a record of the experiments, even if development has stopped. 🤣🗃️
+
+| 🪦 Project | 📝 Status / what happened |
+|---|---|
+| [**CarsonKali**](https://github.com/carjam120443-netizen/CarsonKali) | Retired older OS experiment; newer OS work moved toward [carsonOS](https://github.com/carjam120443-netizen/carsonOS). |
+| [**carsondeb**](https://github.com/carjam120443-netizen/carsondeb) | Retired Debian-based OS experiment; kept around as an archive while carsonOS is the newer direction. |
+| [**macos-iso-builder**](https://github.com/carjam120443-netizen/macos-iso-builder) | Fork I considered working on, went back to Linux, and then forgot about. 💀 |
+| [**websim-chatgpt-server**](https://github.com/carjam120443-netizen/websim-chatgpt-server) | Experimental WebSim/ChatGPT server project; no longer maintained and may be incomplete or nonfunctional. |
+| [**win_iso_build_fork**](https://github.com/carjam120443-netizen/win_iso_build_fork) | Windows ISO-builder fork I never really continued; preserved with credit to the upstream project. |
+| [**Test-OS**](https://github.com/carjam120443-netizen/Test-OS) | Older OS experiment, now retired and preserved for its history and files. |
+| [**test-os2**](https://github.com/carjam120443-netizen/test-os2) | Retired OS experiment; no planned features, updates, or fixes. |
+| [**FreeBSD-Termux**](https://github.com/carjam120443-netizen/FreeBSD-Termux) | Retired FreeBSD-on-Termux experiment; setup may be incomplete and expects a compatible ARM64 disk image. |
+| [**forks-os-forks**](https://github.com/carjam120443-netizen/forks-os-forks) | Retired list project; I'm not planning to add more OS entries or maintain the lists. |
+| [**chatgpt-archive.org**](https://github.com/carjam120443-netizen/chatgpt-archive.org) | ChatGPT ↔ Internet Archive connector experiment that never reached a working state, so I stopped trying to develop it. |
+| [**MagiskOnWSALocal**](https://github.com/carjam120443-netizen/MagiskOnWSALocal) | My fork is retired; I didn't really do anything with it beyond forking it, so it remains as an archive. |
+
+> ⚰️ **These repositories are not being actively maintained.** They may contain outdated code, unfinished ideas, or things that no longer work. I'm leaving them public as a digital archaeological record of my experiments. 🧑‍🔬💀
+
 ## 🧪🔧 Things I Like Experimenting With
 
 - 🖥️ VirtualBox, QEMU and virtual machines
