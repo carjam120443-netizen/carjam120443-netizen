@@ -193,6 +193,19 @@ _)      \\.___.,|     .'
 
 </div>
 
+### 🐧💻 Tux Codes, Carson11 Chills
+
+<div align="center">
+
+<img src="./assets/tux-carson11-coding.svg" alt="Tux the Linux penguin coding at a PC while Carson11, represented by a privacy-preserving Windows 11-style logo head, relaxes on a couch with a game controller" width="720" />
+
+*Tux: “The build is compiling.”*  
+*Carson11: “Awesome. I will continue contributing absolutely nothing from this couch.”* 😎🐧
+
+*Linux handles the build. Carson11 handles the vibes.*
+
+</div>
+
 ### 💾 E: Drive — external storage under pressure
 
 <div align="center">
