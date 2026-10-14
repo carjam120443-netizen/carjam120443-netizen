@@ -102,6 +102,9 @@
 <img src="./assets/bash-command.svg" alt="Bash Command" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="./assets/tux-smashes-windows.svg" alt="Tux smashing the Windows logo with a hammer" width="110" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="./assets/e-drive.svg" alt="External E drive" width="110" height="78" valign="middle" />
+&nbsp;&nbsp;
 
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
@@ -152,6 +155,14 @@ _)      \\.___.,|     .'
 <img src="./assets/tux-smashes-windows.svg" alt="Tux smashing the Windows logo with a hammer" width="420" />
 
 *Linux: “I have a very constructive suggestion for your window.”* 💀
+
+### 💾 E: Drive — external storage under pressure
+
+<div align="center">
+
+<img src="./assets/e-drive.svg" alt="Custom blue external E drive illustration" width="420" />
+
+*“I STORE THE ISOs. I STORE THE VMs. WHY IS THERE ANOTHER LINUX DISTRO?!* 😭💽
 
 </div>
 
