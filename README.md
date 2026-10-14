@@ -7,6 +7,7 @@
 
 
 # 🪟💠 Welcome to Carson's Profile 💠🤖
+#
 
 <p><strong>⚠️ If you scroll down, prepare for chaos-</strong></p>
 
@@ -131,7 +132,7 @@ _)      \\.___.,|     .'
      `-'       `--' hjm
 ```
 
-### 🖥️ System / Fastfetch Art
+### 🖥️ android / Fastfetch Art
 
 ```text
         -o          o-
@@ -154,7 +155,7 @@ _)      \\.___.,|     .'
           oNMm-  -mMNs
 ```
 
-### 🖥️ System Logo / ASCII
+### 🖥️ windows / ASCII
 
 ```text
  ,.=:!!t3Z3z.,
