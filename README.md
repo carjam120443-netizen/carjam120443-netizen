@@ -92,6 +92,8 @@
 <img src="https://files.svgcdn.io/icon-park/search.svg" alt="Search" width="78" height="78" valign="middle" />
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/528182/code-file.svg" alt="Code File" width="78" height="78" valign="middle" />
+&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/341378/firefox-browser-internet-web.svg" alt="Firefox Browser Internet Web" width="78" height="78" valign="middle" />
 
 
 # ✨ Linux • Android • Windows • VMs • Coding • OS Development ✨
