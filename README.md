@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/aero-background.svg" alt="Blue Aero glass banner" width="100%" height="220%" />
+<img src="./assets/aero-background.svg" alt="Blue Aero glass banner" width="100%" height="220" />
 
 # 🪟💠 Welcome to Carson's Profile 💠🤖
 
