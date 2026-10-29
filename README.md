@@ -6,13 +6,12 @@
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50SY5uBLeuZQc9Qh6RXS0Rau5zkmwROW6RCTk2jgChw&s=10" alt="Tux the Linux penguin" width="150" height="220" />
 </p>
+<div>
 <p align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN0LKIjIBuWrzeN0DqAhUh9lrZmEK82820SuBsg1Nc4A&s=10 alt="sh" width="99px" height="99px">
-</img>
-</p>
 <div>
-# 🪟💠 Welcome to Carson's Profile 💠🤖
-**Linux • Android • Windows • Virtual Machines • Coding • OS Development**
+## 🪟💠 Welcome to Carson's Profile 💠🤖
+  **Linux • Android • Windows • Virtual Machines • Coding • OS Development**
 </div>
 
 <div>
