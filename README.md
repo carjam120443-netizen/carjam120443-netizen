@@ -26,6 +26,8 @@
 &nbsp;&nbsp;
 <a href="https://www.kali.org/" title="Hacker"><img src="https://www.svgrepo.com/show/445156/hacker-solid.svg" alt="Hacker" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
+<a href="https://www.kali.org/" title="Kali Linux banner"><img src="https://thesoloadmin.com/content/images/size/w1200/2022/02/kali-linux-header.jpg" alt="Kali Linux header banner" width="320" valign="middle" /></a>
+&nbsp;&nbsp;
 <a href="https://www.kali.org/" title="Hacker icon"><img src="https://uxwing.com/wp-content/themes/uxwing/download/crime-security-military-law/crime-hacker-icon.png" alt="Hacker icon" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
 <a href="https://www.android.com/" title="Android"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="78" height="78" valign="middle" /></a>
