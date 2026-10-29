@@ -6,17 +6,14 @@
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50SY5uBLeuZQc9Qh6RXS0Rau5zkmwROW6RCTk2jgChw&s=10" alt="Tux the Linux penguin" width="150" height="220" />
 </p>
-<div>
-<p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN0LKIjIBuWrzeN0DqAhUh9lrZmEK82820SuBsg1Nc4A&s=10" alt="sh" width="99" height="99" />
-<div>
-## 🪟💠 Welcome to Carson's Profile 💠🤖
-  ** Linux • Android • Windows • Virtual Machines • Coding • OS Development
- ##
-</div>
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN0LKIjIBuWrzeN0DqAhUh9lrZmEK82820SuBsg1Nc4A&s=10" alt="Shell icon" width="99" height="99" />
 
-<div>
-<p align="center"><strong>⚠️ If you scroll down, prepare for chaos-</strong></p>
+  <h1>🪟💠 Welcome to Carson's Profile 💠🤖</h1>
+
+  <p><strong>Linux • Android • Windows • Virtual Machines • Coding • OS Development</strong></p>
+
+  <p><strong>⚠️ If you scroll down, prepare for chaos-</strong></p>
 </div>
 <a href="https://fonts.google.com/icons?selected=Material+Symbols+Outlined:account_child" title="Account Child"><img src="https://files.svgcdn.io/material-symbols/account-child-invert-rounded.svg" alt="Account Child" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://github.com/" title="Shared Folder"><img src="https://files.svgcdn.io/material-symbols/folder-shared-sharp.svg" alt="Shared Folder" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://puppylinux-woof-ce.github.io/" title="Puppy Linux"><img src="https://files.svgcdn.io/logos/puppy-linux.svg" alt="Puppy Linux" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://www.linux.org/" title="Linux Dark"><img src="https://files.svgcdn.io/skill-icons/linux-dark.svg" alt="Linux Dark" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://github.com/topics/programming" title="Programming"><img src="https://files.svgcdn.io/streamline-stickies-color/programming.svg" alt="Programming" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/" title="Programming Browser"><img src="https://files.svgcdn.io/streamline-ultimate/programming-browser-1-bold.svg" alt="Programming Browser" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://github.com/topics/software-development" title="Programming Hold Code"><img src="https://files.svgcdn.io/streamline-ultimate/programming-hold-code-2.svg" alt="Programming Hold Code" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://www.freecodecamp.org/" title="Computer Programming"><img src="https://files.svgcdn.io/hugeicons/computer-programming-01.svg" alt="Computer Programming" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://www.cisa.gov/" title="Report Hacked"><img src="https://files.svgcdn.io/fluent-mdl2/report-hacked.svg" alt="Report Hacked" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://github.com/topics/server" title="Server Path"><img src="https://files.svgcdn.io/solar/server-path-line-duotone.svg" alt="Server Path" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://github.com/" title="Path Arrow"><img src="https://files.svgcdn.io/iconoir/path-arrow.svg" alt="Path Arrow" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;<a href="https://github.com/topics/developer-tools" title="Pathfinder Work"><img src="https://files.svgcdn.io/streamline/interface-edit-pathfinder-outline-pathfinder-outline-work.svg" alt="Pathfinder Work" width="78" height="78" valign="middle" /></a>&nbsp;&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DuCx9Jv-zfL3vtWhDrBcnmfoERNaj-wYw32kRU7vQQ&s=10" height="90px" width="90px">
