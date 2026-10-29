@@ -1,3 +1,4 @@
+<script src="https://keepandroidopen.org/banner.js"></script>
 <div align="center">
 
 <img align="left" src="./assets/aero-left.svg" alt="Aero glass border" width="18" height="900" />
