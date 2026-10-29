@@ -3,7 +3,7 @@
 
 <img src="./assets/aero-background.svg" alt="Blue Aero glass banner" width="100%" height="220" />
 </div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50SY5uBLeuZQc9Qh6RXS0Rau5zkmwROW6RCTk2jgChw&s=10" alt="Tux the Linux penguin" width="150" height="220"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50SY5uBLeuZQc9Qh6RXS0Rau5zkmwROW6RCTk2jgChw&s=10" alt="Tux the Linux penguin" width="150" height="220" align:center;/>
 <div>
 # 🪟💠 Welcome to Carson's Profile 💠🤖
 **Linux • Android • Windows • Virtual Machines • Coding • OS Development**
