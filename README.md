@@ -1,5 +1,5 @@
 
-<div align="center">
+
 <scriptsrc="https://keepandroidopen.org/banner.js"></script>
 <img align="left" src="./assets/aero-left.svg" alt="Aero glass border" width="18" height="900" />
 <img align="right" src="./assets/aero-right.svg" alt="Aero glass border" width="18" height="900" />
