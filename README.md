@@ -76,6 +76,8 @@
 &nbsp;&nbsp;
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
+<a href="https://developer.android.com/studio" title="Android Studio"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/250px-Android_Studio_Logo_%282023%29.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="Android Studio (2023 logo)" width="78" height="78" valign="middle" /></a>
+&nbsp;&nbsp;
 <a href="https://docs.github.com/en/code-security/code-scanning" title="Code scanning"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/codescan-24.svg" alt="Code scanning" width="78" height="78" valign="middle" /></a>
 &nbsp;&nbsp;
 <a href="https://shizuku.rikka.app/" title="Shizuku"><img src="https://www.svgrepo.com/show/519209/shizuku.svg" alt="Shizuku" width="78" height="78" valign="middle" /></a>
