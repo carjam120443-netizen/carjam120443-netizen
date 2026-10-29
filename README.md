@@ -8,7 +8,7 @@
 </p>
 <div>
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN0LKIjIBuWrzeN0DqAhUh9lrZmEK82820SuBsg1Nc4A&s=10 alt="sh" width="99px" height="99px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN0LKIjIBuWrzeN0DqAhUh9lrZmEK82820SuBsg1Nc4A&s=10" alt="sh" width="99" height="99" />
 <div>
 ## 🪟💠 Welcome to Carson's Profile 💠🤖
   **Linux • Android • Windows • Virtual Machines • Coding • OS Development**
